@@ -1,4 +1,6 @@
 change the paths:
- logo,search,add,refresh,update,delete.
+ logo, search, add, refresh, update, and delete.
 modify:
  connection path, username, password
+It can be run:
+ with Apache NetBeans IDE 19
