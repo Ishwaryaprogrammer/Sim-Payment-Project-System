@@ -1,0 +1,4 @@
+change the paths:
+ logo,search,add,refresh,update,delete.
+modify:
+ connection path, username, password
