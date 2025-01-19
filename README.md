@@ -1,4 +1,4 @@
-Here's a suggested content for the README file of your SIM Project Payment System GitHub repository:
+
 
 ## SOFTWARE REQUIREMENT SPECIFICATION OF SIM PROJECT PAYMENT SYSTEM
 
